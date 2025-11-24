@@ -1,4 +1,4 @@
-## Titulo principal
+## Ahorcado
 Ahorcado
 
 ## Descripcion
